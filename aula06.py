@@ -1,0 +1,5 @@
+v1 = float(input('Digite o primeiro valor: '))
+v2 = float(input('Digite o segundo valor: '))
+v3 = float(input('Digite o terceiro valor: '))
+media = int((v1+v2+v3)/3)
+print('Sua média é {}'.format(media))
